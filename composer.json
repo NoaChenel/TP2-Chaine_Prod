@@ -1,4 +1,6 @@
 {
+    "name": "noachenel/tp2-chaine_prod",
+    "description": "Application web développée avec Symfony 7.4",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "dev",
